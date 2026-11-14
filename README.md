@@ -175,13 +175,13 @@ Thank you all! 💙
 Questions, feedback or ideas? Reach out to me directly:
 
 <p align="center">
-  <a href="https://x.com/YOUR_X_USERNAME">
+  <a href="https://x.com/Paul_Atreides52">
     <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+  <a href="https://www.facebook.com/mhmd.kamal.164329">
     <img src="https://img.shields.io/badge/Facebook-Message%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/mohammed-kamal-909649178/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
